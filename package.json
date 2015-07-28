@@ -1,0 +1,9 @@
+{
+  "name": "ps-format",
+  "version": "1.0.0",
+  "description": "Date-sorted output of `ps`",
+  "main": "index.js",
+  "dependencies": {
+    "sprintf-js": "1.0.3"
+  }
+}
